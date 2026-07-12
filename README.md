@@ -20,6 +20,7 @@ Python & Data Handling Basics Libraries:
   
 
 Supervised Learning:
+- Linear Regression + Multiple Regression
 - Logistic Regression
 - Logistic_Regression_multiclass
 - KNN Classification
